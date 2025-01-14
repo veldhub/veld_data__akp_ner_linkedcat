@@ -1,4 +1,4 @@
-# NER Inference on linkedcat data from solr
+# veld_data__akp_ner_linkedcat
 
 This repo contains machine inferenced named entities and some context data. The inference was done 
 by self-trained spaCy NER models, and applied on linkedcat SOLR data. There are two datasets on 
